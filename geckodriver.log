@@ -1,0 +1,76 @@
+1622308160415	geckodriver	INFO	Listening on 127.0.0.1:64426
+1622308163586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anar0\\AppData\\Local\\Temp\\rust_mozprofilecXExEu"
+1622308164278	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622308167709	Marionette	INFO	Listening on port 64437
+1622308167873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622308182384	Marionette	INFO	Stopped listening on port 64437
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622308549424	geckodriver	INFO	Listening on 127.0.0.1:64635
+1622308552474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anar0\\AppData\\Local\\Temp\\rust_mozprofileYDe0Me"
+1622308553188	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622308556590	Marionette	INFO	Listening on port 64643
+1622308556700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://c.disquscdn.com/next/recommendations/common.bundle.9aad4e5af3027dd4fbeac9669fb17819.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+1622309072012	geckodriver	INFO	Listening on 127.0.0.1:64788
+1622309075116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anar0\\AppData\\Local\\Temp\\rust_mozprofilePCbSuN"
+1622309075892	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622309078807	Marionette	INFO	Listening on port 64796
+1622309079349	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622309155516	geckodriver	INFO	Listening on 127.0.0.1:64908
+1622309158573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anar0\\AppData\\Local\\Temp\\rust_mozprofilenMO9QF"
+1622309159455	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622309163030	Marionette	INFO	Listening on port 64916
+1622309163432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://c.disquscdn.com/next/recommendations/common.bundle.9aad4e5af3027dd4fbeac9669fb17819.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+1622309417340	geckodriver	INFO	Listening on 127.0.0.1:65056
+1622309420408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anar0\\AppData\\Local\\Temp\\rust_mozprofileVGxmN8"
+1622309421270	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622309424563	Marionette	INFO	Listening on port 65064
+1622309424684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://c.disquscdn.com/next/embed/common.bundle.f485ba8b89bf2153fdb9f493ec342aed.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://c.disquscdn.com/next/recommendations/common.bundle.9aad4e5af3027dd4fbeac9669fb17819.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+1622309428311	Marionette	INFO	Stopped listening on port 65064
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622309455684	geckodriver	INFO	Listening on 127.0.0.1:65143
+1622309458783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anar0\\AppData\\Local\\Temp\\rust_mozprofileCEfOOT"
+1622309459589	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622309462682	Marionette	INFO	Listening on port 65152
+1622309463029	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://c.disquscdn.com/next/recommendations/common.bundle.9aad4e5af3027dd4fbeac9669fb17819.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+1622309466455	Marionette	INFO	Stopped listening on port 65152
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622309497709	geckodriver	INFO	Listening on 127.0.0.1:65239
+1622309500823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anar0\\AppData\\Local\\Temp\\rust_mozprofileimFMkB"
+1622309501572	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622309505445	Marionette	INFO	Listening on port 65247
+1622309505663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622309507983	Marionette	INFO	Stopped listening on port 65247
+JavaScript error: https://c.disquscdn.com/next/embed/common.bundle.f485ba8b89bf2153fdb9f493ec342aed.js, line 8: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Anar0\AppData\Local\Temp\rust_mozprofileimFMkB\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622309520188	geckodriver	INFO	Listening on 127.0.0.1:65324
+1622309523259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anar0\\AppData\\Local\\Temp\\rust_mozprofileIDivFM"
+1622309524016	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622309527001	Marionette	INFO	Listening on port 65332
+1622309527499	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622309530179	Marionette	INFO	Stopped listening on port 65332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
